@@ -1,0 +1,36 @@
+body {
+    background-color: lime;
+}
+h1 {
+    color: red;
+    font-family: "Comic Sans MS";
+    font-size: 400%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+h2 {
+    color: magenta;
+    font-family: "Comic Sans MS";
+    margin-top: 0px;
+    font-size: 150%;
+    margin-bottom: 0px;
+}
+h3 {
+    color: magenta;
+    font-family: "Comic Sans MS";
+    margin-top: 0px;
+    font-size: 300%;
+    margin-bottom: 0px;
+}
+li {
+    color: green;
+    font-family: "Comic Sans MS";
+    margin-top: 0px;
+}
+a {
+    color: orange;
+    font-family: "Comic Sans MS";
+}
+img {
+    width:20%;
+}
